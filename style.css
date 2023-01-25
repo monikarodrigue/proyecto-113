@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h3
+  {
+    font-size: 25px !important;
+  }
+canvas {
+  	border:1px solid rgb(184,22,243);
+  }
